@@ -3,9 +3,9 @@ layout: default
 modal-id: 2
 date: 2014-07-17
 img: axolotl.png
-alt: image-alt
+alt: minecraft-axolotl-space
 project-date: 2024
-client: N/A
+client: 
 category: Personal project
 description: The skylight in my Axolotl space is inspired by big aquariums and greenhouses. The skylight was built in my first modded Minecraft world and it took a lot of measuring and planning when I mined it out. I decided to essentially build a tower from the ground of the enclosure to the top of the roof. I think I could have probably found a better, more efficient way to do it but in the end it got finished. I later rounded off the edge to allow for a better view of the sky when viewing from the side.
 ---
