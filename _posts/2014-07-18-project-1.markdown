@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: castle.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: I built a Skyblock Castle inspired by watermelons and the watermelon minions in Skyblock. It was tough working in an older Minecraft version where I did not have all the blocks I was used to working with. It was a fun challenge and I am happy with how it turned out.
+---
